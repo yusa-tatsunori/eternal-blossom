@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 137.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_名称未設定グラデーション_792);
+      }
+
+      .cls-2 {
+        fill: url(#_名称未設定グラデーション_792-2);
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #f19cc1;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: url(#_名称未設定グラデーション_577);
+      }
+
+      .cls-5 {
+        fill: #fbdbb2;
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション_792" data-name="名称未設定グラデーション 792" x1="0" y1="81.5" x2="62.78" y2="81.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5d748"/>
+      <stop offset=".34" stop-color="#f3d547" stop-opacity=".99"/>
+      <stop offset=".48" stop-color="#edcf45" stop-opacity=".96"/>
+      <stop offset=".58" stop-color="#e2c441" stop-opacity=".91"/>
+      <stop offset=".66" stop-color="#d3b43c" stop-opacity=".84"/>
+      <stop offset=".73" stop-color="#bfa035" stop-opacity=".75"/>
+      <stop offset=".8" stop-color="#a7882d" stop-opacity=".63"/>
+      <stop offset=".86" stop-color="#8a6a23" stop-opacity=".5"/>
+      <stop offset=".91" stop-color="#694818" stop-opacity=".34"/>
+      <stop offset=".96" stop-color="#44230b" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#200" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_792-2" data-name="名称未設定グラデーション 792" y1="96.75" y2="96.75" xlink:href="#_名称未設定グラデーション_792"/>
+    <linearGradient id="_名称未設定グラデーション_577" data-name="名称未設定グラデーション 577" x1="42.16" y1="78.72" x2="120" y2="78.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5d748"/>
+      <stop offset="1" stop-color="#d975ab" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="_レイヤー_2-2" data-name="レイヤー 2">
+    <path class="cls-3" d="m58.26,58.74C58.26,27.23,38.14,1.74,13.26,1.74"/>
+    <path class="cls-3" d="m58.26,61.74c0-23.07,11.29-41.74,25.24-41.74"/>
+    <path class="cls-3" d="m58.26,58.74c0-29.7,13.97-53.74,31.24-53.74"/>
+  </g>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <path class="cls-1" d="m42,136.5C42,60.5,0,26.5,0,26.5c110,0,42,110,42,110Z"/>
+    <path class="cls-2" d="m42,136C42,81.76,0,57.5,0,57.5c110,0,42,78.5,42,78.5Z"/>
+    <path class="cls-4" d="m42.16,136.5C42.16,7.5,120,20.5,120,20.5c0,134-77.84,116-77.84,116Z"/>
+    <circle class="cls-5" cx="13.5" cy="2" r="2"/>
+    <circle class="cls-5" cx="90.5" cy="5" r="2"/>
+    <circle class="cls-5" cx="84.5" cy="20" r="2"/>
+  </g>
+</svg>

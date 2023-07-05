@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 855.06 443.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #f19cc1;
+        stroke-miterlimit: 10;
+        stroke-width: 3.09px;
+      }
+
+      .cls-2 {
+        fill: #ff35f6;
+        font-family: HGSeikaishotaiPRO, HGSeikaishotaiPRO;
+        font-size: 166.81px;
+      }
+
+      .cls-3 {
+        fill: url(#_名称未設定グラデーション_2);
+      }
+
+      .cls-4 {
+        fill: url(#_名称未設定グラデーション_2-2);
+      }
+
+      .cls-5 {
+        fill: url(#_名称未設定グラデーション_3);
+      }
+
+      .cls-6 {
+        fill: #fbdbb2;
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション_2" data-name="名称未設定グラデーション 2" x1="-522.65" y1="1328.01" x2="-328.34" y2="1328.01" gradientTransform="translate(539.04 1580.24) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5d748"/>
+      <stop offset=".34" stop-color="#f3d547" stop-opacity=".99"/>
+      <stop offset=".48" stop-color="#edcf45" stop-opacity=".96"/>
+      <stop offset=".58" stop-color="#e2c441" stop-opacity=".91"/>
+      <stop offset=".66" stop-color="#d3b43c" stop-opacity=".84"/>
+      <stop offset=".73" stop-color="#bfa035" stop-opacity=".75"/>
+      <stop offset=".8" stop-color="#a7882d" stop-opacity=".63"/>
+      <stop offset=".86" stop-color="#8a6a23" stop-opacity=".5"/>
+      <stop offset=".91" stop-color="#694818" stop-opacity=".34"/>
+      <stop offset=".96" stop-color="#44230b" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#200" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_2-2" data-name="名称未設定グラデーション 2" y1="1280.81" y2="1280.81" xlink:href="#_名称未設定グラデーション_2"/>
+    <linearGradient id="_名称未設定グラデーション_3" data-name="名称未設定グラデーション 3" x1="-392.17" y1="1336.61" x2="-151.26" y2="1336.61" gradientTransform="translate(539.04 1580.24) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5d748"/>
+      <stop offset="1" stop-color="#d975ab" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g>
+      <g id="_レイヤー_2-2" data-name=" レイヤー 2-2">
+        <path class="cls-1" d="m196.7,181.79C196.7,84.27,134.43,5.39,57.43,5.39"/>
+        <path class="cls-1" d="m196.7,191.08c0-71.4,34.94-129.18,78.12-129.18"/>
+        <path class="cls-1" d="m196.7,181.79c0-91.92,43.24-166.32,96.68-166.32"/>
+      </g>
+      <g id="_レイヤー_1-2" data-name=" レイヤー 1-2">
+        <path class="cls-3" d="m146.38,422.45C146.38,187.24,16.39,82.01,16.39,82.01c340.44,0,129.99,340.44,129.99,340.44Z"/>
+        <path class="cls-4" d="m146.38,420.91c0-167.87-129.99-242.95-129.99-242.95,340.44,0,129.99,242.95,129.99,242.95Z"/>
+        <path class="cls-5" d="m146.87,422.45c0-399.24,240.91-359.01,240.91-359.01,0,414.72-240.91,359.01-240.91,359.01Z"/>
+        <circle class="cls-6" cx="58.17" cy="6.19" r="6.19"/>
+        <circle class="cls-6" cx="296.48" cy="15.47" r="6.19"/>
+        <circle class="cls-6" cx="277.91" cy="61.9" r="6.19"/>
+      </g>
+    </g>
+  </g>
+  <g id="_レイヤー_2-2" data-name="レイヤー 2">
+    <text class="cls-2" transform="translate(314.82 281.19) scale(.69 1)"><tspan x="0" y="0">club</tspan><tspan x="-453.18" y="140">Eternal Blossom</tspan></text>
+    <image width="501" height="346" transform="translate(343.1 27.95)" xlink:href="data:image/png;base64,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"/>
+  </g>
+</svg>
